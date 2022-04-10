@@ -1,0 +1,19 @@
+
+c
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¢¦Ñêûÿÿÿÿ
+V
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(Ï¤Êô
+`
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(é°Š»
+c
+java:S4488!"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(õ½ Íüÿÿÿÿ
+^
+java:S4488("HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(‹¡¶¯
+V
+java:S4684."@Replace this persistent entity with a simple POJO or DTO object.(º‡è¬
+]
+java:S4488-"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(é¬‡-
+d
+java:S44883"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(±³ÌÚ
+>	java:S108D")Either remove or fill this block of code.(³¡éì
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªëÌýùÿÿÿÿ
